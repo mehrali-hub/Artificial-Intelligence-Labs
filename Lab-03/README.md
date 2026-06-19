@@ -26,7 +26,7 @@ The Romania map is modeled as an undirected graph using NetworkX.
 
 ### Graph Representation
 
-![Romania Map](images/romania-map.png)
+![Romania Map](https://raw.githubusercontent.com/USERNAME/REPO/main/images/romania-map.png)
 
 ---
 
