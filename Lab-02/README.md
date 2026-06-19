@@ -58,6 +58,8 @@ This system demonstrates how a Simple Reflex Agent reacts instantly based on env
 ---
 
 ## 🌱 Task 2 – Automatic Watering System Agent
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/9e0b6f38-5ab6-4614-9a0f-00ec59a90fce" />
+
 
 ### Scenario
 
