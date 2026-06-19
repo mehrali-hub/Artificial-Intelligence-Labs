@@ -5,6 +5,9 @@
 ![AI Lab](https://img.shields.io/badge/Artificial%20Intelligence-Lab-green)
 ![Graph Search](https://img.shields.io/badge/Search-BFS%20%26%20DFS-orange)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7becc60c-6698-4766-ba21-4702d2291ef1" />
+
+
 ---
 
 ## 📌 Project Overview
@@ -23,11 +26,6 @@ The objective is to find a path between a start city and a goal city.
 ## 🗺️ Romania Road Map
 
 The Romania map is modeled as an undirected graph using NetworkX.
-
-### Graph Representation
-
-![Romania Map](https://raw.githubusercontent.com/USERNAME/REPO/main/images/romania-map.png)
-
 ---
 
 ## 🎯 Problem Statement
@@ -137,17 +135,6 @@ stack.pop()
 Start: Arad
 Goal : Bucharest
 ```
-
-### BFS Result
-
-![BFS Output](images/bfs-output.png)
-
----
-
-### DFS Result
-
-![DFS Output](images/dfs-output.png)
-
 ---
 
 ### Test Case 2
@@ -182,7 +169,6 @@ No path exists.
 
 The shortest path discovered by BFS is highlighted on the graph.
 
-![BFS Path](images/bfs-path.png)
 
 ---
 
