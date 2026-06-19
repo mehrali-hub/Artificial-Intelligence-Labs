@@ -50,12 +50,16 @@ This lab introduces fundamental Python libraries used extensively in Artificial 
 ## 📌 Tasks Completed
 
 ### Task 1 – NumPy Array Creation
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6379e064-09fc-4230-9f96-33ed08389f4f" />
+
 ✔ Generated an array containing all even integers from 200 to 240.
 
 ### Task 2 – Random Number Generation
 ✔ Generated random values using a standard normal distribution.
 
 ### Task 3 – Data Visualization
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/04dac941-c303-4c7a-abe1-6cb0a343a81f" />
+
 ✔ Created multiple line plots using Matplotlib.
 ✔ Added markers, labels, legends, and titles.
 
@@ -63,11 +67,15 @@ This lab introduces fundamental Python libraries used extensively in Artificial 
 ✔ Changed the datatype of a Pandas Series.
 
 ### Task 5 – DataFrame Filtering
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/88a76c64-ea0b-4245-ac8c-0b0431aaefb1" />
+
 ✔ Deleted rows based on a specific column condition.
 
 ---
 
 # 🛠 Technologies Used
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/71fa48c2-ef72-4819-89cb-d30311eaf6f7" />
+
 
 - Python
 - NumPy
