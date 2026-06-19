@@ -12,14 +12,14 @@
 </div>
 
 ---
-<img width="1188" height="734" alt="image" src="https://github.com/user-attachments/assets/6b090e30-6349-47ad-bdc3-b30263e02a47" />
-
 
 ## 📖 Overview
 
 This project implements a **Genetic Algorithm (GA)** from scratch — an evolutionary search technique inspired by natural selection. Candidate solutions ("chromosomes") evolve across generations through **selection**, **crossover**, and **mutation**, gradually converging toward an optimal solution.
 
 The lab builds a complete GA toolbox, applies it to a **binary optimization** problem (maximizing the number of 1-bits), then extends it to a **target string matching** challenge — evolving random strings until they match a target phrase like `"HELLO"`.
+
+<img width="1188" height="734" alt="image" src="https://github.com/user-attachments/assets/7fdf8347-3ea5-4d83-8413-810aed4da888" />
 
 ---
 
