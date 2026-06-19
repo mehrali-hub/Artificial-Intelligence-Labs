@@ -33,6 +33,8 @@ By completing this lab, students will:
 # 🧠 Implemented Tasks
 
 ## 🚨 Task 1 – Fire Alarm System Agent
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e0039195-f2aa-4e3f-b9da-0bacec526cf4" />
+
 
 ### Scenario
 
