@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial-Intelligence-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Agent-System-green?style=for-the-badge">
+
 </p>
 
 ---
