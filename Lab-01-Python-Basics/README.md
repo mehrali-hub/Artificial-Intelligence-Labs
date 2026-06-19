@@ -9,7 +9,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
 
 ### 📚 BS Computer Science – 4th Semester
-### Artificial Intelligence Laboratory Portfolio
+### Artificial Intelligence Lab
 
 A collection of Artificial Intelligence laboratory tasks, assignments, and practical implementations completed during my BS Computer Science degree. This repository demonstrates foundational AI, data analysis, visualization, and problem-solving concepts using Python and industry-standard libraries.
 
@@ -25,7 +25,7 @@ A collection of Artificial Intelligence laboratory tasks, assignments, and pract
 | Degree | BS Computer Science |
 | Semester | 4th Semester |
 | Course | Artificial Intelligence |
-| University | FAST NUCES Peshawar |
+| University | FAST NUCES |
 
 ---
 
@@ -38,7 +38,7 @@ Artificial-Intelligence-Labs/
 │   └── AI_lab_1.ipynb
 │
 ├── README.md
-└── LICENSE
+
 ```
 
 ---
